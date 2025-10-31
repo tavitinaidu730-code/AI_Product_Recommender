@@ -33,5 +33,320 @@
     "price": 1300,
     "features": "AMD Ryzen 7, 16GB RAM, RTX 3070 GPU, 1TB SSD",
     "use_case": "gaming, heavy multitasking"
+  },
+  {
+    "name": "ASUS ROG Zephyrus G14",
+    "category": "Laptop",
+    "price": 1450,
+    "features": "AMD Ryzen 9, RTX 3060, 16GB RAM, 1TB SSD",
+    "use_case": "gaming, content creation"
+  },
+  {
+    "name": "HP Envy 13",
+    "category": "Laptop",
+    "price": 1000,
+    "features": "Intel i7, 16GB RAM, 512GB SSD, 13-inch display",
+    "use_case": "students, professionals"
+  },
+  {
+    "name": "Dell XPS 13",
+    "category": "Laptop",
+    "price": 1350,
+    "features": "Intel i7, 16GB RAM, 512GB SSD, InfinityEdge Display",
+    "use_case": "business, productivity"
+  },
+  {
+    "name": "Lenovo IdeaPad 3",
+    "category": "Laptop",
+    "price": 600,
+    "features": "Intel i3, 8GB RAM, 256GB SSD",
+    "use_case": "students, basic tasks"
+  },
+  {
+    "name": "ASUS VivoBook 15",
+    "category": "Laptop",
+    "price": 700,
+    "features": "Intel i5, 8GB RAM, 512GB SSD",
+    "use_case": "office work, students"
+  },
+  {
+    "name": "MSI GF63 Thin",
+    "category": "Laptop",
+    "price": 950,
+    "features": "Intel i7, GTX 1650, 16GB RAM, 512GB SSD",
+    "use_case": "gaming, multitasking"
+  },
+  {
+    "name": "Apple MacBook Pro M3",
+    "category": "Laptop",
+    "price": 1800,
+    "features": "Apple M3 chip, 16GB RAM, 512GB SSD",
+    "use_case": "video editing, software development"
+  },
+  {
+    "name": "HP Omen 16",
+    "category": "Laptop",
+    "price": 1600,
+    "features": "AMD Ryzen 9, RTX 4070, 16GB RAM, 1TB SSD",
+    "use_case": "gaming, streaming"
+  },
+  {
+    "name": "Dell G15 Gaming",
+    "category": "Laptop",
+    "price": 1250,
+    "features": "Intel i7, RTX 3060, 16GB RAM, 512GB SSD",
+    "use_case": "gaming, performance work"
+  },
+  {
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "category": "Laptop",
+    "price": 1700,
+    "features": "Intel i7, 16GB RAM, 1TB SSD, 14-inch UHD Display",
+    "use_case": "business, productivity"
+  },
+  {
+    "name": "Acer Swift 3",
+    "category": "Laptop",
+    "price": 800,
+    "features": "AMD Ryzen 5, 8GB RAM, 512GB SSD",
+    "use_case": "students, lightweight use"
+  },
+  {
+    "name": "ASUS TUF Dash F15",
+    "category": "Laptop",
+    "price": 1350,
+    "features": "Intel i7, RTX 3060, 16GB RAM, 512GB SSD",
+    "use_case": "gaming, design"
+  },
+  {
+    "name": "HP Spectre x360",
+    "category": "Laptop",
+    "price": 1400,
+    "features": "Intel i7, 16GB RAM, 512GB SSD, OLED display",
+    "use_case": "creative work, professionals"
+  },
+  {
+    "name": "Dell Latitude 7420",
+    "category": "Laptop",
+    "price": 1500,
+    "features": "Intel i7, 16GB RAM, 1TB SSD",
+    "use_case": "business, travel"
+  },
+  {
+    "name": "Lenovo Yoga 7i",
+    "category": "Laptop",
+    "price": 1100,
+    "features": "Intel i5, Touchscreen, 16GB RAM, 512GB SSD",
+    "use_case": "students, professionals"
+  },
+  {
+    "name": "MSI Katana 15",
+    "category": "Laptop",
+    "price": 1400,
+    "features": "Intel i7, RTX 4060, 16GB RAM, 1TB SSD",
+    "use_case": "gaming, 3D rendering"
+  },
+  {
+    "name": "Apple MacBook Air M1",
+    "category": "Laptop",
+    "price": 999,
+    "features": "Apple M1 chip, 8GB RAM, 256GB SSD",
+    "use_case": "students, office use"
+  },
+  {
+    "name": "Acer Aspire 7",
+    "category": "Laptop",
+    "price": 950,
+    "features": "AMD Ryzen 5, GTX 1650, 8GB RAM, 512GB SSD",
+    "use_case": "gaming, editing"
+  },
+  {
+    "name": "HP Victus 16",
+    "category": "Laptop",
+    "price": 1300,
+    "features": "Intel i7, RTX 3060, 16GB RAM, 512GB SSD",
+    "use_case": "gaming, multitasking"
+  },
+  {
+    "name": "ASUS ZenBook 14",
+    "category": "Laptop",
+    "price": 1200,
+    "features": "AMD Ryzen 7, 16GB RAM, 1TB SSD",
+    "use_case": "students, business use"
+  },
+  {
+    "name": "Dell Precision 5560",
+    "category": "Laptop",
+    "price": 2200,
+    "features": "Intel i9, RTX A2000, 32GB RAM, 1TB SSD",
+    "use_case": "engineering, design"
+  },
+  {
+    "name": "Lenovo ThinkBook 15",
+    "category": "Laptop",
+    "price": 950,
+    "features": "Intel i5, 8GB RAM, 512GB SSD",
+    "use_case": "business, students"
+  },
+  {
+    "name": "MSI Modern 14",
+    "category": "Laptop",
+    "price": 750,
+    "features": "Intel i5, 8GB RAM, 512GB SSD",
+    "use_case": "daily tasks, students"
+  },
+  {
+    "name": "ASUS ExpertBook B9",
+    "category": "Laptop",
+    "price": 1600,
+    "features": "Intel i7, 16GB RAM, 1TB SSD, lightweight design",
+    "use_case": "business, travel"
+  },
+  {
+    "name": "HP ProBook 440 G10",
+    "category": "Laptop",
+    "price": 1050,
+    "features": "Intel i7, 16GB RAM, 512GB SSD",
+    "use_case": "office, productivity"
+  },
+  {
+    "name": "Dell Vostro 15 3520",
+    "category": "Laptop",
+    "price": 800,
+    "features": "Intel i5, 8GB RAM, 512GB SSD",
+    "use_case": "small business, students"
+  },
+  {
+    "name": "Lenovo LOQ 15",
+    "category": "Laptop",
+    "price": 1150,
+    "features": "AMD Ryzen 7, RTX 4050, 16GB RAM, 512GB SSD",
+    "use_case": "gaming, editing"
+  },
+  {
+    "name": "Acer Predator Helios 16",
+    "category": "Laptop",
+    "price": 1900,
+    "features": "Intel i9, RTX 4080, 32GB RAM, 1TB SSD",
+    "use_case": "hardcore gaming, 3D rendering"
+  },
+  {
+    "name": "MSI Stealth 15",
+    "category": "Laptop",
+    "price": 2100,
+    "features": "Intel i9, RTX 4070, 32GB RAM, 1TB SSD",
+    "use_case": "gaming, creative professionals"
+  },
+  {
+    "name": "ASUS Chromebook Flip",
+    "category": "Laptop",
+    "price": 550,
+    "features": "Intel i3, 8GB RAM, 128GB SSD, Touchscreen",
+    "use_case": "students, browsing"
+  },
+  {
+    "name": "HP EliteBook 840 G10",
+    "category": "Laptop",
+    "price": 1600,
+    "features": "Intel i7, 16GB RAM, 1TB SSD",
+    "use_case": "corporate, productivity"
+  },
+  {
+    "name": "Dell Alienware x16",
+    "category": "Laptop",
+    "price": 2800,
+    "features": "Intel i9, RTX 4090, 32GB RAM, 2TB SSD",
+    "use_case": "high-end gaming, development"
+  },
+  {
+    "name": "Lenovo Flex 5",
+    "category": "Laptop",
+    "price": 800,
+    "features": "AMD Ryzen 5, Touchscreen, 8GB RAM, 512GB SSD",
+    "use_case": "students, multimedia"
+  },
+  {
+    "name": "Acer Chromebook 315",
+    "category": "Laptop",
+    "price": 400,
+    "features": "Intel Celeron, 4GB RAM, 64GB eMMC",
+    "use_case": "basic browsing, students"
+  },
+  {
+    "name": "HP Laptop 15s",
+    "category": "Laptop",
+    "price": 650,
+    "features": "Intel i3, 8GB RAM, 256GB SSD",
+    "use_case": "students, daily use"
+  },
+  {
+    "name": "ASUS ROG Strix Scar 18",
+    "category": "Laptop",
+    "price": 3200,
+    "features": "Intel i9, RTX 4090, 64GB RAM, 2TB SSD",
+    "use_case": "gaming, heavy graphics work"
+  },
+  {
+    "name": "Dell XPS 15",
+    "category": "Laptop",
+    "price": 1800,
+    "features": "Intel i7, RTX 3050, 16GB RAM, 1TB SSD",
+    "use_case": "design, development"
+  },
+  {
+    "name": "Apple MacBook Pro M2 Max",
+    "category": "Laptop",
+    "price": 3500,
+    "features": "Apple M2 Max chip, 32GB RAM, 1TB SSD",
+    "use_case": "video editing, app development"
+  },
+  {
+    "name": "MSI Summit E16 Flip",
+    "category": "Laptop",
+    "price": 1700,
+    "features": "Intel i7, 16GB RAM, 1TB SSD, Touchscreen",
+    "use_case": "business, creative work"
+  },
+  {
+    "name": "Lenovo Slim 7 ProX",
+    "category": "Laptop",
+    "price": 1500,
+    "features": "AMD Ryzen 9, 16GB RAM, 1TB SSD, 3K Display",
+    "use_case": "design, productivity"
+  },
+  {
+    "name": "HP Chromebook x360",
+    "category": "Laptop",
+    "price": 600,
+    "features": "Intel i3, 8GB RAM, 128GB SSD, Touchscreen",
+    "use_case": "students, web browsing"
+  },
+  {
+    "name": "ASUS ZenBook Pro Duo",
+    "category": "Laptop",
+    "price": 2800,
+    "features": "Intel i9, RTX 3070Ti, Dual 4K screens, 32GB RAM, 1TB SSD",
+    "use_case": "content creation, multitasking"
+  },
+  {
+    "name": "Acer Spin 5",
+    "category": "Laptop",
+    "price": 1100,
+    "features": "Intel i7, Touchscreen, 16GB RAM, 512GB SSD",
+    "use_case": "students, professionals"
+  },
+  {
+    "name": "Lenovo IdeaPad Slim 5",
+    "category": "Laptop",
+    "price": 700,
+    "features": "AMD Ryzen 5, 8GB RAM, 512GB SSD",
+    "use_case": "students, casual use"
+  },
+  {
+    "name": "HP ZBook Fury 16 G9",
+    "category": "Laptop",
+    "price": 3200,
+    "features": "Intel i9, RTX A5500, 64GB RAM, 2TB SSD",
+    "use_case": "engineering, 3D modeling"
   }
 ]
