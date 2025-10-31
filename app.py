@@ -145,6 +145,9 @@ st.markdown("<p class='subtitle'>Discover the perfect product based on your need
 try:
     with open("products.json", "r") as f:
         products = json.load(f)
+    for product in products:
+        if isinstance(product.get("price"), (int, float)):
+            product["price"] = f"${product['price']:,}"
 except FileNotFoundError:
     st.error("❌ products.json not found. Please make sure it's in the same folder.")
     st.stop()
