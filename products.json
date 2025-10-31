@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Acer Nitro 5",
+    "category": "Laptop",
+    "price": 1100,
+    "features": "16GB RAM, NVIDIA RTX 3060 GPU, 512GB SSD",
+    "use_case": "gaming, video editing"
+  },
+  {
+    "name": "Dell Inspiron 14",
+    "category": "Laptop",
+    "price": 900,
+    "features": "8GB RAM, Intel i5, 256GB SSD",
+    "use_case": "office work, casual use"
+  },
+  {
+    "name": "HP Pavilion x360",
+    "category": "Laptop",
+    "price": 850,
+    "features": "Touchscreen, 8GB RAM, Intel i5, 512GB SSD",
+    "use_case": "students, productivity"
+  },
+  {
+    "name": "MacBook Air M2",
+    "category": "Laptop",
+    "price": 1200,
+    "features": "Apple M2 chip, 8GB RAM, 256GB SSD",
+    "use_case": "design, editing, professional work"
+  },
+  {
+    "name": "Lenovo Legion 5",
+    "category": "Laptop",
+    "price": 1300,
+    "features": "AMD Ryzen 7, 16GB RAM, RTX 3070 GPU, 1TB SSD",
+    "use_case": "gaming, heavy multitasking"
+  }
+]
