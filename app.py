@@ -153,8 +153,15 @@ except FileNotFoundError:
     st.stop()
 
 # ====== Input Section ======
+#st.write("💬 Describe your need, product name, or use case — I'll recommend the best match!")
+#query = st.text_input("", placeholder="Example: I need a laptop for video editing and gaming under $1200")
+
 st.write("💬 Describe your need, product name, or use case — I'll recommend the best match!")
-query = st.text_input("", placeholder="Example: I need a laptop for video editing and gaming under $1200")
+query = st.text_input(
+    "Enter your query:", 
+    placeholder="Example: I need a laptop for video editing and gaming under $1200",
+    label_visibility="collapsed"
+)
 
 # ====== Response Section ======
 if query:
