@@ -178,7 +178,7 @@ if query:
         2. Closest match (if features are described), or
         3. Application-based (if use case is described).
 
-        Recommend 1–2 best products from the catalog.
+        Recommend best products from the catalog.
         Provide a short justification (2–3 sentences) explaining why it's the best fit.
         Include price and main features.
         """
